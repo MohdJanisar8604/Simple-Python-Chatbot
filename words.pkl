@@ -159,7 +159,7 @@ aVtill
 p79
 aVtime
 p80
-aVto
+auto
 p81
 aVtransfer
 p82
